@@ -29,6 +29,7 @@ This class was created as an alternative to our RC Airplanes class. It uses the 
 * Used plastic cards (credit cards or gift cards)
 * Stiff wire for controls (this can be piano wire or you can obtain it from the beads in bicycle tires)
 * Zip ties
+
 * Hard board or 1/8in MDF
 
 **Electronics**
