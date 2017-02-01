@@ -7,7 +7,7 @@ Feel free to use, copy, or modify these materials to suit your needs. If you hav
 Happy Making!
 
 # Projects
-* Air Sled
+* [Air Sled](/air-sled.md)
 * Foamboard Automata 
 * Simple Lego Machines
 * Fabrication Lab
