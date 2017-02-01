@@ -1,3 +1,12 @@
-Here is some documentation and ideas for classes I have taught or I'm currently teaching at Heart Of Los Angeles. 
+Here is some documentation and ideas for classes I have taught or I'm currently teaching in the scientific arts department at [Heart Of Los Angeles](http://heartoflosangeles.org/). 
 
-Feel free to use, copy, or modify these materials to suit your needs. 
+For direct access to the files [view the project on github](https://github.com/ftobon/steam-classes)
+
+Feel free to use, copy, or modify these materials to suit your needs. If you have questions or comments feel free to send me an email at ftobon@heartofla.org
+
+# Projects
+* Air Sled
+* Foamboard Automata 
+* Simple Lego Machines
+* Fabrication Lab
+
