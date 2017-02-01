@@ -9,6 +9,7 @@ This class was created as an alternative to our RC Airplanes class. It uses the 
 
 **Inspiration and resources**: 
 * This class was inspired by [Samm Shepperd's Air Sled build on YouTube](https://youtu.be/lb7DPmaW8qs) with some modifications to make it easier to build and safer to operate.
+
 * To learn more about the RC electronics used in this build check out the [flitest begginer series](http://www.flitetest.com/authors/FliteTest#/textSearch=HorizonHobby-BeginnerSeries&listSort=date_low_to_high) in particular the articles and videos about [power system](http://www.flitetest.com/articles/beginner-series-power-system) and [transmitters](http://www.flitetest.com/articles/beginner-series-transmitters)
 
 **Tools Needed** 
