@@ -5,7 +5,7 @@ will learn about linking electronics with moving parts and making functional mac
 This is a good step towards making other radio controlled craft such as airplanes, boats
 and multi-rotors (drones).
 
-This class was created as an alternative to our RC Airplanes class. It uses the same techniques and materials but to play with the air sled you don't need a large area. The students get to measure, cut, and assemble their own craft. They place, connect and calibrate the electronic components. And once the craft is completed they learn about safely operating the vehicle and making repairs when necessary.
+**Teacher Notes**: This class was created as an alternative to our RC Airplanes class. It uses the same techniques and materials but to play with the air sled you don't need a large area. The students get to measure, cut, and assemble their own craft. They place, connect and calibrate the electronic components. And once the craft is completed they learn about safely operating the vehicle and making repairs when necessary.
 
 **Inspiration and resources**: 
 
