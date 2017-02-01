@@ -7,7 +7,7 @@ Feel free to use, copy, or modify these materials to suit your needs. If you hav
 Happy Making!
 
 # Projects
-* [Air Sled](/air-sled.md)
+* [Air Sled](/air-sled.md) - Building a radio controlled vehicle with inexpensive materials
 * Foamboard Automata 
 * Simple Lego Machines
 * Fabrication Lab
