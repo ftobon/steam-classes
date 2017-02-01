@@ -2,7 +2,9 @@ Here is some documentation and ideas for classes I have taught or I'm currently 
 
 For direct access to the files [view the project on github](https://github.com/ftobon/steam-classes)
 
-Feel free to use, copy, or modify these materials to suit your needs. If you have questions or comments feel free to send me an email at ftobon@heartofla.org
+Feel free to use, copy, or modify these materials to suit your needs. If you have questions or comments email me at ftobon@heartofla.org
+
+Happy Making!
 
 # Projects
 * Air Sled
