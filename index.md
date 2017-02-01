@@ -2,5 +2,5 @@
 title: Main Page
 ---
 
-#Steam classes
+# Steam classes
 Description
