@@ -25,7 +25,7 @@ and multi-rotors (drones).
 * Bamboo skewers
 * Tonge depressors
 * Used plastic cards (credit cards or gift cards)
-* Stiff wire for controls (this can be piano wire or you can obtain it from the beads in bicycle tires)
+* Paper clips or similar stiff wire
 * Zip ties
 * Hard board or 1/8in MDF
 
