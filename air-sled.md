@@ -30,6 +30,7 @@ and multi-rotors (drones).
 * Hard board or 1/8in MDF
 
 **Electronics**
+
 The world of hobby RC electronics changes very rapidly so links to specific products will become obsolete in no time. There are also many suppliers and you can get good deals if you shop around. In our case we are using something similar to the flite-test power pack B for small airplanes. For each air sled you will need:
 * Motor x 1 (in our case a Suppo 2208/17 1100kv Brushless Outrunner)
 * Electronic Speed Controller -ESC- x 1 to match your motor (in our case a HobbyKing 20 amp ESC)
@@ -41,4 +42,9 @@ Additionally these components can be shared but are also required:
 * Transmitter (almost anything will work here since you only need 2 channels for this project, we use a couple of inexpensive Hobby King transmitters)
 * Receiver to match your transmitter
 
+**Construction**
+
+The first step is to transfer the dimensions from the plans to the foamboard. The plans are drawn to maximise the use of material an minimize the number of cuts. This step only requires pencil and ruler. 
+
+![air sled dimensions](steam-classes/images/air-sled/air-sled-dimensions.jpg)
 
