@@ -30,3 +30,15 @@ and multi-rotors (drones).
 * Hard board or 1/8in MDF
 
 **Electronics**
+The world of hobby RC electronics changes very rapidly so links to specific products will become obsolete in no time. There are also many suppliers and you can get good deals if you shop around. In our case we are using something similar to the flite-test power pack B for small airplanes. For each air sled you will need:
+* Motor x 1 (in our case a Suppo 2208/17 1100kv Brushless Outrunner)
+* Electronic Speed Controller -ESC- x 1 to match your motor (in our case a HobbyKing 20 amp ESC)
+* 9 gram Servo x 1 (in our case the HXT900 Micro Servo available at HobbyKing)
+
+Additionally these components can be shared but are also required:
+* Batteries (we use a Turnigy 500mAh 3S 20C Lipo Pack)
+* Battery Charger
+* Transmitter (almost anything will work here since you only need 2 channels for this project, we use a couple of inexpensive Hobby King transmitters)
+* Receiver to match your transmitter
+
+
