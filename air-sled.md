@@ -42,10 +42,16 @@ Additionally these components can be shared but are also required:
 * Transmitter (almost anything will work here since you only need 2 channels for this project, we use a couple of inexpensive Hobby King transmitters)
 * Receiver to match your transmitter
 
+**Motor Mount**
+
+If you have the resources you may choose to make this part with your students. Since it's reusable from class to class we have chosen to make it ahead of time. The main triangle is 1/8" hardboard MDF and the square is 1/4 inch plywood. The center hole allows the motor axle to spin freely and the 4 outside holes match the motor bracket (you might have to change this according to your particular motor).
+![motor mount](https://raw.githubusercontent.com/ftobon/steam-classes/master/images/air-sled/air-sled-motor-mount.jpg)
+![motor mount](https://raw.githubusercontent.com/ftobon/steam-classes/master/images/air-sled/air-sled-5.jpg)
+![motor mount](https://raw.githubusercontent.com/ftobon/steam-classes/master/images/air-sled/air-sled-6.jpg)
+
 **Construction**
 
 The first step is to transfer the dimensions from [the plans](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-dimensions.pdf) (PDF dowload) to the foamboard. The plans are drawn to maximise the use of material an minimize the number of cuts. This step only requires pencil and ruler. 
 
 ![air sled dimensions](https://raw.githubusercontent.com/ftobon/steam-classes/master/images/air-sled/air-sled-dimensions.jpg)
-[Download a bigger PDF here](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-dimensions.pdf)
 
