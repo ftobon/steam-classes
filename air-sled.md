@@ -44,7 +44,7 @@ Additionally these components can be shared but are also required:
 
 **Construction**
 
-The first step is to transfer the dimensions from the plans to the foamboard. The plans are drawn to maximise the use of material an minimize the number of cuts. This step only requires pencil and ruler. 
+The first step is to transfer the dimensions from [the plans](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-dimensions.pdf) (PDF dowload) to the foamboard. The plans are drawn to maximise the use of material an minimize the number of cuts. This step only requires pencil and ruler. 
 
 ![air sled dimensions](https://raw.githubusercontent.com/ftobon/steam-classes/master/images/air-sled/air-sled-dimensions.jpg)
 [Download a bigger PDF here](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-dimensions.pdf)
