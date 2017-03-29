@@ -1,3 +1,9 @@
+---
+title: Air Sled 
+layout: post
+---
+
+
 # Air Sled
 **Official Class Description** : Using skewers, foam-core, packing tape, and hot glue students will build a 
 radio controlled hovercraft (air sled). By creating their own vehicle from scratch, students
