@@ -1,6 +1,5 @@
 ---
 title: Air Sled 
-layout: post
 ---
 
 
