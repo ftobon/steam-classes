@@ -95,6 +95,19 @@ The ESC and the receiver can be mounted using some sticky back velcro, this also
 
 >> add picture of electronics
 
+Before going out to the field make sure the motor is running in the right direction and that servo is centered.
+
+On the field:
+Be mindful of propellers, they can seriously hurt you!. The order in which to turn things on and off matters a lot so go over the procedures to turn things on and off a few times with the group and with each student:
+
+Turn things on in the following order:
+
+* Receiver ON
+* Make sure the throttle stick is all the way down
+* Plug the battery to the ESC
+* Wait for the audible confirmation from the ESC
+* Do a quick left and right check to ensure the servo is connected properly
+* Slowly increase the throttle until the propeller starts going
 
 
 
