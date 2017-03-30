@@ -57,4 +57,13 @@ The first step is to transfer the dimensions from the plans [PDF download](https
 ![air sled dimensions](https://raw.githubusercontent.com/ftobon/steam-classes/master/images/air-sled/air-sled-16.jpg)
 
 
+Next is cutting. I prefer to have all the parts cut before beginning assembly. This is a good moment to talk about safety and how to properly hold the blade and the ruler. Also when working with foam core there are 2 types of cuts: a normal cut when you go all the way through the material, and a *score cut* when you cut just on one side and then break the material along the your score line leaving one side of the paper intact to serve as a hinge. 
+
+>> add picture of cut
+
+After all the pieces are cut, namely the base, the sides and the rudder it is time to do a score cut on the rudder to create a hinge. Then using a blade and a guide proceed to make a 45 degree bevel on one side to allow for full motion of the flap. You can reinforce with packing tape. Here is a [quick video](https://youtu.be/w3__FHKIUvk?t=1m6s) of someone explaining the technique.
+
+>> add picture of rudder bevel
+
+When hot-gluing the sides and the rudder it's important that they are perpendicular to the base. You can accomplish that with
 
