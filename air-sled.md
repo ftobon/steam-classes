@@ -65,5 +65,15 @@ After all the pieces are cut, namely the base, the sides and the rudder it is ti
 
 >> add picture of rudder bevel
 
-When hot-gluing the sides and the rudder it's important that they are perpendicular to the base. You can accomplish that with
+When hot-gluing the sides and the rudder it's important that they are perpendicular to the base. You can accomplish that with a simple square but we decided to make a couple of simple wooden jigs to make the job easier:
+![setting up jig](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-01.jpg)
+![setting up jig](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-02.jpg)
+![rudder jig](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-03.jpg)
+
+with this jig you can hold the piece to be glued with a couple of pushpins: 
+![rudder jig](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-04.jpg)
+
+After all the foamcore sections are glued and reinforced glue the motor mount on the center of the craft:
+![rudder jig](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-12.jpg)
+![motor mount](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-13.jpg)
 
