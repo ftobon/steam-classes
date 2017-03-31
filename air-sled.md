@@ -76,8 +76,8 @@ with this jig you can hold the piece to be glued with a couple of pushpins:
 
 After all the foamcore sections are glued and reinforced glue the motor mount on the center of the craft. Also notice the chopstick between the sides and the motor mount, it is also attached with hot glue. To reinforce the rudder add a tongue depressor at a 45 degree angle:
 
-![rudder jig](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-12.jpg)
-![motor mount](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-13.jpg)
+![rudder jig](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-12.jpg)
+![motor mount](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-13.jpg)
 
 Glue tonge depressors on the bottom of the craft to serve as skates. These work well on most surfaces.
 
@@ -85,11 +85,11 @@ Glue tonge depressors on the bottom of the craft to serve as skates. These work 
 
 Mounting the electronics
 The 9 gram servo gets attached to the rudder with a bit of hot glue and then it's reinforced with zip-ties. The control horn is made out of a bent piece of gift card and the control wire is a paper clip as seen in the picture:
-![servo](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-09.jpg)
+![servo](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-09.jpg)
 
 The easiest way to attach the motor is using zip-ties. These have the added benefit of breaking easily during crashes and are very easy to replace on the field:
-![motor mount](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-08.jpg)
-![motor mount](https://github.com/ftobon/steam-classes/blob/master/images/air-sled/air-sled-07.jpg)
+![motor mount](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-08.jpg)
+![motor mount](https://github.com/ftobon/steam-classes/raw/master/images/air-sled/air-sled-07.jpg)
 
 The ESC and the receiver can be mounted using some sticky back velcro, this also serves as a battery holder:
 
