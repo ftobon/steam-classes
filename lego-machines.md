@@ -20,7 +20,7 @@ This class will be a playful exploration of moving machanisms. By making moving 
 
 # Projects:
 
-**Extendable Claw**
+## Extendable Claw
 A simple collapsible structure that can be made with any long pieces and studs. You can challenge your students to try an make the longest possible arm that is still functional. 
 
 Links:
