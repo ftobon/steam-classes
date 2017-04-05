@@ -12,3 +12,8 @@ Happy Making!
 * Simple Lego Machines
 * Fabrication Lab
 
+**bold**
+
+***italics***
+
+[lego machines](/lego-machines.md)
