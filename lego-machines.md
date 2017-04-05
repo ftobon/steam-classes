@@ -18,20 +18,22 @@ This class will be a playful exploration of moving machanisms. By making moving 
 
 
 
-# Projects:
-
 ## Extendable Claw
-A simple collapsible structure that can be made with any long pieces and studs. You can challenge your students to try an make the longest possible arm that is still functional. 
+A simple collapsible structure that can be made with any long pieces and studs. You can challenge your students to make the longest possible arm that is still functional. 
 
 Links:
 * [lego claw arm on bricks.stackexchange.org](http://bricks.stackexchange.com/questions/1869/how-to-make-a-lego-claw-arm/1871#1871)
 * [Demonstration video](https://youtu.be/P4teCuW-KfE)
 
-Donkey carts
+
+
+
+## Donkey carts
 
 Push stick rubber car
 
-Free build: gear contraptions
+## Free build: gear contraptions
+
 
 Pantograph
 
