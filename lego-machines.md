@@ -1,5 +1,12 @@
-**Official Class Description**
-Using the LEGO technic system students will build several models with moving parts. The models will be fun to paly with and will demonstrate how gears, levers, and pulleys work, and how complex movements can be achieved with simple mechanisms.
+#Simple Lego Machines
+**Official Class Description** :Using the LEGO technic system students will build several models with moving parts. The models will be fun to paly with and will demonstrate how gears, levers, and pulleys work, and how complex movements can be achieved with simple mechanisms.
 This class will be a playful exploration of moving machanisms. By making moving contraptions with LEGO students will learn physics and engineering concepts.
-**Teacher Notes**
-**Inspiration and Resources**
+
+**Teacher Notes**: The goal of this class is to make things that move with the LEGO technic system. Each class was dedicated to a project or activity, sometimes accompanied with some videos and or a little bit of theory. Some of the projects, like the rubber band powered vehicles, can be turned into fun competitions. There is no specific order to the projects so you can pick any project you find inspiring.
+
+**Materials**
+* We have a few Lego NXT kits but your actual materials will vary depending on the project.
+* Some additional LEGO baseplates can be helpful
+* Rubber bands
+* String
+
