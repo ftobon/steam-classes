@@ -9,6 +9,6 @@ Happy Making!
 # Projects
 * [Air Sled](/air-sled.md) - Building a radio controlled vehicle with inexpensive materials
 * Foamboard Automata 
-* Simple Lego Machines
+* [Simple Lego Machines](/lego-machines.md)
 * Fabrication Lab
 
