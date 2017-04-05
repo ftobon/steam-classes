@@ -14,18 +14,30 @@ This class will be a playful exploration of moving machanisms. By making moving 
 
 **Inspiration and Resources**
 
-* [KLUTZ crazy action contraptions](https://www.amazon.com/Klutz-Crazy-Action-Contraptions-Craft/dp/1591747694/ref=lp_2594924011_1_9?srs=2594924011&ie=UTF8&qid=1491352025&sr=8-9)
+* The book [KLUTZ crazy action contraptions](https://www.amazon.com/Klutz-Crazy-Action-Contraptions-Craft/dp/1591747694/ref=lp_2594924011_1_9?srs=2594924011&ie=UTF8&qid=1491352025&sr=8-9) 
 
 
 
-Projects:
+# Projects:
 
-Claw or scissor lift
+**Extendable Claw**
+A simple collapsible structure that can be made with any long pieces and studs. You can challenge your students to try an make the longest possible arm that is still functional. 
+
+Links:
+* [lego claw arm on bricks.stackexchange.org](http://bricks.stackexchange.com/questions/1869/how-to-make-a-lego-claw-arm/1871#1871)
+* [Demonstration video](https://youtu.be/P4teCuW-KfE)
+
 Donkey carts
+
 Push stick rubber car
+
 Free build: gear contraptions
+
 Pantograph
+
 String Riders
+
 Free build: motorized machine
+
 Battling tops
 
