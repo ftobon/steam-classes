@@ -30,7 +30,7 @@ Links:
 
 ## Donkey carts
 
-Push stick rubber car
+Push stick rubber cars
 
 ## Free build: gear contraptions
 
