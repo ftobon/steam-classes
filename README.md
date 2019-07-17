@@ -9,5 +9,3 @@ Feel free to copy, use, modify and redistribute any of these materials.
 If you have questions or suggestions you can contact us on github or at ftobon@heartofla.org
 
 Happy Making!
-
-Click here to see the published version https://ftobon.github.io/steam-classes/
